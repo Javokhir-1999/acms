@@ -1,0 +1,6 @@
+
+
+
+
+# run this command to run tcp server for handling events from hikvision
+# (env) C:\Projects\uzsanoat\acms>python core/manage.py runscript tcp_server
